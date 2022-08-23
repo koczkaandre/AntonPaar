@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Author: Andre Koczka
+ * 23.08.2022
+ */
+
+using System;
 using System.ComponentModel;
 using System.IO;
 using System.Linq;
